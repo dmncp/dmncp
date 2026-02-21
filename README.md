@@ -53,5 +53,5 @@ Strong foundations in algorithms, operating systems, databases, networks, and di
 ---
 
 <p align="center">
-LinkedIn → https://linkedin.com/in/YOUR_PROFILE
+LinkedIn → https://linkedin.com/in/damian-cyper
 </p>
